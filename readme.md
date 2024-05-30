@@ -47,4 +47,3 @@ The main application code is contained in `youtube_downloader.py`:
 
 ```python
 import tkinter
-import cust
