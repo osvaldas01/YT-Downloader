@@ -1,4 +1,4 @@
-# YouTube Downloader
+# Simple YouTube Downloader
 
 YouTube Downloader is a Python-based application with a graphical user interface (GUI) that allows users to download YouTube videos with both video and audio. The application is built using `tkinter` and `customtkinter` for the GUI, and `pytube` for downloading videos from YouTube.
 
