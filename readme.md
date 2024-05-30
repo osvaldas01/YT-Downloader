@@ -19,7 +19,7 @@ YouTube Downloader is a Python-based application with a graphical user interface
 
 1. **Clone the repository** or download the source code:
     ```sh
-    git clone https://github.com/osvaldas01/YouTube-Downloader.git
+    git clone https://github.com/osvaldas01/YT-Downloader.git
     cd youtube-downloader
     ```
 
